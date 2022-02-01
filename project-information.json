@@ -1,8 +1,8 @@
 {
     "name": "migr-AI-tion",
     "nameFull": "migrAItion",
-    "videoUrl": "Check!",
-    "prototypeUrl": "Check!",
+    "videoUrl": null,
+    "prototypeUrl": null,
     "techlabsUrl": "https://techlabs.org/",
     "location": "Berlin",
     "semester": "Winter 2021",
@@ -15,9 +15,9 @@
             "track": "WD",
             "githubName": "JieLiang",
             "githubUrl": "https://github.com/JieLiang",
-            "linkedinUrl": "https://linkedin.com",
-            "emailAdress": "null",
-            "personalPage": "null",
+            "linkedinUrl": null,
+            "emailAdress": null,
+            "personalPage": null,
             "display": true
         },
         {
@@ -26,7 +26,7 @@
             "track": "WD",
             "githubName": "BtariGaluh",
             "githubUrl": "https://github.com/BtariGaluh",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -37,7 +37,7 @@
             "track": "DS",
             "githubName": "TonyHa",
             "githubUrl": "https://github.com/TonyHa",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -48,7 +48,7 @@
             "track": "DS",
             "githubName": "Michèle",
             "githubUrl": "https://github.com/Michèle",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -59,7 +59,7 @@
             "track": "DS",
             "githubName": "CodeGitte",
             "githubUrl": "https://github.com/CodeGitte",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -70,7 +70,7 @@
             "track": "AI",
             "githubName": "datapumpernickel",
             "githubUrl": "https://github.com/datapumpernickel",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -81,7 +81,7 @@
             "track": "UX",
             "githubName": "Fontenla",
             "githubUrl": "https://github.com/Fontenla",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
@@ -92,7 +92,7 @@
             "track": "UX",
             "githubName": "Nuno",
             "githubUrl": "https://github.com/Nuno",
-            "linkedinUrl": "https://linkedin.com",
+            "linkedinUrl": null,
             "emailAdress": null,
             "personalPage": null,
             "display": true
